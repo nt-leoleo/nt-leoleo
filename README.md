@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Web programmer, Front-end. 
+- Actualmente estoy aprendiendo JavaScript y React.
+- Busco colaborar en cualquier proyecto que impulse mi aprendizaje!
+
+## Habilidades
+- JavaScript
+- CSS
+- HTML
+
+## Contacto
+Puedes escribirme por instagram!
+- kw.leo0
+otros medios de contacto
+- Correo: leonardoapedernera.tec@gmail.com
