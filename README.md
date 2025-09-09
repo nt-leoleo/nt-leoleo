@@ -27,5 +27,5 @@ Web programmer, Front-end.
 ## Contacto
 Puedes escribirme por instagram!
 - kw.leo0
-otros medios de contacto
+### otros medios de contacto
 - Correo: leonardoapedernera.tec@gmail.com
