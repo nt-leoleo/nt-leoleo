@@ -26,6 +26,6 @@ Web programmer, Front-end.
 
 ## Contacto
 Puedes escribirme por instagram!
-- kw.leo0
+- gazetheblackmoon
 ### otros medios de contacto
 - Correo: leonardoapedernera.tec@gmail.com
