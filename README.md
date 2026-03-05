@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ¡Visita mi sitio web!
+#### https://leonardotec.vercel.app/
 
-Web programmer, Front-end. 
+##### Web programmer, Front-end. 
 - Actualmente estoy aprendiendo JavaScript y React.
 - Busco colaborar en cualquier proyecto que impulse mi aprendizaje!
 
