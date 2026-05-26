@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 ## Contacto
 Puedes escribirme por instagram!
-- gazetheblackmoon
+- @Leonardo.tec
 ### otros medios de contacto
 - Correo: leonardoapedernera.tec@gmail.com
